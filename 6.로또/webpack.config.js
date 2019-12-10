@@ -23,4 +23,7 @@ module.exports = {
     path: path.join(__dirname, 'dist'),
     publicPath: '/dist'
   },
+  resolve: {
+    extensions: ['.vue', '.js']
+  }
 };
