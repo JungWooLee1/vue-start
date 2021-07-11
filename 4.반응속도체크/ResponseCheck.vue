@@ -13,7 +13,6 @@
   let endTime = 0;
   let timeout = null;
 
-
   export default {
     data() {
       return {
